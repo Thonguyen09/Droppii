@@ -6,3 +6,6 @@ Guideline on how to use the automation test cases.
 2. Add Playwright Test for VSCode extension
 3. Install Playwright
 4. 
+
+Version 1.0
+by ThoNguyen
